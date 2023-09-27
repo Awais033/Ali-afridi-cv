@@ -1,0 +1,23 @@
+.tablecolors{
+    background-color:azure;
+    font-size: x-large;
+   
+}
+
+img{
+    width: 250px;
+    height: 250px;
+}
+h1{
+    background-color: antiquewhite;
+}
+body{
+    background-color: rgb(94, 92, 92);
+}
+li{
+    color: white;
+    font-size: larger;
+}
+tr{
+    background-color: gainsboro;
+}
